@@ -23,10 +23,21 @@ const IndexPage = () => (
             <a href={`mailto:${config.email}`}>{config.email}</a>
           </div>
           <p className="lead mb-5">
-            I am experienced in leveraging agile frameworks to provide a robust
-            synopsis for high level overviews. Iterative approaches to corporate
-            strategy foster collaborative thinking to further the overall value
-            proposition.
+          <p>Hey there!</p>
+
+          <p>My name is Zack, and I am an Information Systems & Technology graduate from the University of Missouri Saint Louis. 
+            One thing I particularly enjoyed about majoring in Information Systems is that this field really allows me to use both my technical skills like computer programming and my front facing business skills. 
+            I am very passionate about data and analytics and I enjoy helping companies make better use of current data, as well as collecting new data.</p>
+          
+          <p>I've participated in a variety of school events. 
+            Everything from hackathons, networking events, and even intermural pickleball. 
+            I am an active member of The National Society of Leadership and Success, Information Systems Programming Club, CompTIA AITP, and Marketing Club. 
+            I volunteered my film and editing skills to produce the original promotional video for the first UMSL Hack, which was a huge success. 
+            UMSL Hack just put on its fourth hackathon in February 2020.</p>
+         
+          <p>You can keep up with me on my social media accounts linked below. 
+            I am always looking to try new food, beverages, and experiences. 
+            You can also drop me an email through the button on your left.</p>
           </p>
           <div className="social-icons">
             {config.socialLinks.map(social => {
@@ -52,69 +63,104 @@ const IndexPage = () => (
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Senior Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Web Developer and Digital Marketing Specialist</h3>
+              <div className="subheading mb-3">Sikich</div>
               <p>
-                Bring to the table win-win survival strategies to ensure
-                proactive domination. At the end of the day, going forward, a
-                new normal that has evolved from generation X is on the runway
-                heading towards a streamlined cloud solution. User generated
-                content in real-time will have multiple touchpoints for
-                offshoring.
+              <p>Bring to the table win-win survival strategies to ensure
+              proactive domination. </p>
+
+              <p>At the end of the day, going forward, a
+              new normal that has evolved from generation X is on the runway
+              heading towards a streamlined cloud solution. </p>
+
+              <p>User generated
+              content in real-time will have multiple touchpoints for
+              offshoring.</p>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">March 2013 - Present</span>
+              <span className="text-primary">April 2021 - Present</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Web Developer</h3>
-              <div className="subheading mb-3">Intelitec Solutions</div>
+              <h3 className="mb-0">Business Development Manager</h3>
+              <div className="subheading mb-3">DC Dev Shop</div>
               <p>
-                Capitalize on low hanging fruit to identify a ballpark value
-                added activity to beta test. Override the digital divide with
-                additional clickthroughs from DevOps. Nanotechnology immersion
-                along the information highway will close the loop on focusing
-                solely on the bottom line.
+              <p>Generated inbound and outbound client leads for web development
+              agency with clients across small businesses, non-profits, media, and
+              government entities.</p>
+
+              <p>Advised clients on service opportunities including web design,
+              marketing solutions, and website maintenance, regardless of budget.</p>
+
+              <p>Established relationships with prospective clients in order to evaluate
+              business needs and identify room for growth.</p>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">December 2011 - March 2013</span>
+              <span className="text-primary">August 2020 – October 2020</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div className="resume-content">
-              <h3 className="mb-0">Junior Web Designer</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Product Manager, Esports </h3>
+              <div className="subheading mb-3">EyePromise</div>
               <p>
-                Podcasting operational change management inside of workflows to
-                establish a framework. Taking seamless key performance
-                indicators offline to maximise the long tail. Keeping your eye
-                on the ball while performing a deep dive on the start-up
-                mentality to derive convergence on cross-platform integration.
+              <p>Launched a new brand within vision supplement company focused on
+              a line of vitamins for video gamers with a high screen time.</p>
+
+              <p>Educated a new Gen Z and millennial customer base on eye health via
+              email marketing, paid ads, social media, and influencer partnerships.</p>
+
+              <p>Designed a single-page website with ecommerce functionality to
+              showcase and sell products.</p>
+
+              <p>Revitalized defunct social media presence, increasing following by
+              36% and amassing over 1M impressions and 32K engagements.</p>
+
+              <p>Initiated partnerships with brands and influencers in the esports
+              space, including United's Call of Duty championship team, collegiate
+              esports teams, professional players, and content creators.</p>
+
+              <p>Reported and analyzed website and social media metrics, such as
+              traffic, engagement, views, reach, and ecommerce purchases, which
+              were then presented to executives.</p>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">July 2010 - December 2011</span>
+              <span className="text-primary">May 2019 – April 2020</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">Web Design Intern</h3>
-              <div className="subheading mb-3">Shout! Media Productions</div>
+              <h3 className="mb-0">Information Systems Intern</h3>
+              <div className="subheading mb-3">EyePromise</div>
               <p>
-                Collaboratively administrate empowered markets via plug-and-play
-                networks. Dynamically procrastinate B2C users after installed
-                base benefits. Dramatically visualize customer directed
-                convergence without revolutionary ROI.
+              <p>Managed data and insights for company aimed at developing
+              products to preserve, support, and improve vision for people
+              concerned with age-related eye health.</p>
+
+              <p>Created NPS surveys distributed to various audiences who interacted
+              with the company, then recorded within CRM database.</p>
+
+              <p>Tested and implemented text messaging integration into CRM,
+              allowing a new avenue for the marketing team to communicate with
+              customers who opt in.</p>
+
+              <p>Streamlined data collection with automation techniques, such as a
+              machine learning application programmed to better categorize survey
+              responses and allow for a more detailed use of analytics.</p>
+
+              <p>Edited archival pages on the company's website to improve SEO,
+              utilizing Google SERP tools to strength page titles and descriptions.</p>
               </p>
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">September 2008 - June 2010</span>
+              <span className="text-primary">August 2018 – May 2019</span>
             </div>
           </div>
         </div>
@@ -129,28 +175,42 @@ const IndexPage = () => (
         <div className="w-100">
           <h2 className="mb-5">Education</h2>
 
-          <div className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+          <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">University of Colorado Boulder</h3>
-              <div className="subheading mb-3">Bachelor of Science</div>
-              <div>Computer Science - Web Development Track</div>
-              <p>GPA: 3.23</p>
+              <h3 className="mb-0">University of Missouri - St. Louis</h3>
+              <div className="subheading mb-3">Bachelors of Science - Information Systems & Technology</div>
+              {/* <p>GPA: 3.23</p> */}
+              {/* <p>GPA: 3.23</p> */}
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2006 - May 2010</span>
+              <span className="text-primary">August 2010 - May 2014</span>
             </div>
           </div>
 
           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
             <div className="resume-content">
-              <h3 className="mb-0">James Buchanan High School</h3>
-              <div className="subheading mb-3">Technology Magnet Program</div>
-              <p>GPA: 3.56</p>
+              <h3 className="mb-0">St. Charles Community College</h3>
+              <div className="subheading mb-3">Associates of Arts</div>
+              {/* <p>GPA: 3.23</p> */}
+              {/* <p>GPA: 3.23</p> */}
             </div>
             <div className="resume-date text-md-right">
-              <span className="text-primary">August 2002 - May 2006</span>
+              <span className="text-primary">August 2014 - December 2016</span>
             </div>
           </div>
+
+{/*           <div className="resume-item d-flex flex-column flex-md-row justify-content-between">
+            <div className="resume-content">
+              <h3 className="mb-0">Francis Howell North High school</h3>
+              <div className="subheading mb-3"></div>
+              <p>GPA: 3.23</p>
+              <p>GPA: 3.23</p>
+            </div>
+            <div className="resume-date text-md-right">
+              <span className="text-primary">August 2010 - May 2014</span>
+            </div>
+          </div> */}
+
         </div>
       </section>
 
@@ -265,30 +325,19 @@ const IndexPage = () => (
             </li>
             <li>
               <i className="fa-li fa fa-trophy text-warning"></i>
-              Mobile Web Specialist - Google Certification
+              Hubspot Sales Software Certificate
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2009
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Hubspot Inbound Certificate
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - University of Colorado Boulder - Adobe Creative Jam 2008
-              (UI Design Category)
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Beginner Javascript - Wes Bos
             </li>
             <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>2<sup>nd</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition
-              2008
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>1<sup>st</sup>
-              Place - James Buchanan High School - Hackathon 2006
-            </li>
-            <li>
-              <i className="fa-li fa fa-trophy text-warning"></i>3<sup>rd</sup>
-              Place - James Buchanan High School - Hackathon 2005
+              <i className="fa-li fa fa-trophy text-warning"></i>
+              Command Line Heros - Wes Bos
             </li>
           </ul>
         </div>
