@@ -65,18 +65,27 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Web Developer and Digital Marketing Specialist</h3>
               <div className="subheading mb-3">Sikich</div>
-              <p>
-              <p>Bring to the table win-win survival strategies to ensure
-              proactive domination. </p>
 
-              <p>At the end of the day, going forward, a
+              <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Bring to the table win-win survival strategies to ensure
+              proactive domination.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              At the end of the day, going forward, a
               new normal that has evolved from generation X is on the runway
-              heading towards a streamlined cloud solution. </p>
-
-              <p>User generated
+              heading towards a streamlined cloud solution.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              User generated
               content in real-time will have multiple touchpoints for
-              offshoring.</p>
-              </p>
+              offshoring.
+            </li>
+          </ul>
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">April 2021 - Present</span>
@@ -87,17 +96,26 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Business Development Manager</h3>
               <div className="subheading mb-3">DC Dev Shop</div>
-              <p>
-              <p>Generated inbound and outbound client leads for web development
+
+              <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Generated inbound and outbound client leads for web development
               agency with clients across small businesses, non-profits, media, and
-              government entities.</p>
+              government entities.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Advised clients on service opportunities including web design,
+              marketing solutions, and website maintenance, regardless of budget.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Established relationships with prospective clients in order to evaluate
+              business needs and identify room for growth.
+            </li>
+          </ul>
 
-              <p>Advised clients on service opportunities including web design,
-              marketing solutions, and website maintenance, regardless of budget.</p>
-
-              <p>Established relationships with prospective clients in order to evaluate
-              business needs and identify room for growth.</p>
-              </p>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">August 2020 – October 2020</span>
@@ -108,27 +126,42 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Product Manager, Esports </h3>
               <div className="subheading mb-3">EyePromise</div>
-              <p>
-              <p>Launched a new brand within vision supplement company focused on
-              a line of vitamins for video gamers with a high screen time.</p>
 
-              <p>Educated a new Gen Z and millennial customer base on eye health via
-              email marketing, paid ads, social media, and influencer partnerships.</p>
-
-              <p>Designed a single-page website with ecommerce functionality to
-              showcase and sell products.</p>
-
-              <p>Revitalized defunct social media presence, increasing following by
-              36% and amassing over 1M impressions and 32K engagements.</p>
-
-              <p>Initiated partnerships with brands and influencers in the esports
+              <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Launched a new brand within vision supplement company focused on
+              a line of vitamins for video gamers with a high screen time.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Educated a new Gen Z and millennial customer base on eye health via
+              email marketing, paid ads, social media, and influencer partnerships.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Designed a single-page website with ecommerce functionality to
+              showcase and sell products.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Revitalized defunct social media presence, increasing following by
+              36% and amassing over 1M impressions and 32K engagements.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Initiated partnerships with brands and influencers in the esports
               space, including United's Call of Duty championship team, collegiate
-              esports teams, professional players, and content creators.</p>
-
-              <p>Reported and analyzed website and social media metrics, such as
+              esports teams, professional players, and content creators.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Reported and analyzed website and social media metrics, such as
               traffic, engagement, views, reach, and ecommerce purchases, which
-              were then presented to executives.</p>
-              </p>
+              were then presented to executives.
+            </li>
+          </ul>
+
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">May 2019 – April 2020</span>
@@ -139,25 +172,38 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">Information Systems Intern</h3>
               <div className="subheading mb-3">EyePromise</div>
-              <p>
-              <p>Managed data and insights for company aimed at developing
+
+              <ul className="fa-ul mb-0">
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Managed data and insights for company aimed at developing
               products to preserve, support, and improve vision for people
-              concerned with age-related eye health.</p>
-
-              <p>Created NPS surveys distributed to various audiences who interacted
-              with the company, then recorded within CRM database.</p>
-
-              <p>Tested and implemented text messaging integration into CRM,
+              concerned with age-related eye health.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Created NPS surveys distributed to various audiences who interacted
+              with the company, then recorded within CRM database.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Tested and implemented text messaging integration into CRM,
               allowing a new avenue for the marketing team to communicate with
-              customers who opt in.</p>
-
-              <p>Streamlined data collection with automation techniques, such as a
+              customers who opt in.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Streamlined data collection with automation techniques, such as a
               machine learning application programmed to better categorize survey
-              responses and allow for a more detailed use of analytics.</p>
-
-              <p>Edited archival pages on the company's website to improve SEO,
-              utilizing Google SERP tools to strength page titles and descriptions.</p>
-              </p>
+              responses and allow for a more detailed use of analytics.
+            </li>
+            <li>
+              <i className="fa-li fa fa-circle"></i>
+              Edited archival pages on the company's website to improve SEO,
+              utilizing Google SERP tools to strength page titles and descriptions.
+            </li>
+          </ul>
+            
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">August 2018 – May 2019</span>
